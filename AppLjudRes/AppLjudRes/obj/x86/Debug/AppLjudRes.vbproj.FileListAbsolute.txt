@@ -1,0 +1,71 @@
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.exe
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.pdb
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.xml
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.brisanje.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.dodavanje.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.opcije.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pregled.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.prijava.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.Resources.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbproj.GenerateResource.Cache
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.exe
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.xml
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pdb
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.status.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmena.resources
+C:\Users\slavc\OneDrive\Desktop\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmenapass.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.exe
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.xml
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pdb
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.exe
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.pdb
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.xml
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.brisanje.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.dodavanje.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmena.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmenapass.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.opcije.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pregled.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.prijava.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.Resources.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.status.resources
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbproj.GenerateResource.Cache
+C:\Users\slavc\OneDrive\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmenauser.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.exe
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.pdb
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.xml
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.brisanje.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.dodavanje.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmena.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmenapass.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmenauser.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.opcije.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pregled.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.prijava.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.Resources.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.status.resources
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.exe
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.xml
+C:\Users\User\Desktop\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pdb
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.exe
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.pdb
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\bin\Debug\AppLjudRes.xml
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.brisanje.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.dodavanje.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmena.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmenapass.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.izmenauser.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.opcije.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pregled.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.prijava.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.Resources.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.status.resources
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.exe
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.xml
+C:\Users\User\Desktop\programming\my stuff\Zavrsni rad\AppLjudRes\AppLjudRes\obj\x86\Debug\AppLjudRes.pdb
